@@ -2,7 +2,7 @@
 
 A GUI tool to quickly trim your clips.
 
-Only for windows
+Only for windows, Your python version must be >= 3.7
 
 This tool requires that you have VLC media player installed.
 https://www.videolan.org/vlc/
