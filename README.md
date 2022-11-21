@@ -14,6 +14,7 @@ https://phoenixnap.com/kb/ffmpeg-windows
 To use the bundled "clip trimmer.bat" file you must use the bundled "install.bat" This creates a virtual env called env, and installs all requirements in it.
 This app is designed to be used with the "Open With" menu of windows.
 You can do this opening a video file with the "clip trimmer.bat" file.
+These bat files require python to be installed to PATH.
 
 
 If you would rather do this yourself, you can manually install the requirements and run the app by using:
